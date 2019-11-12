@@ -1,0 +1,5 @@
+default-image: java-ee
+default-pipeline: default
+images:
+- id: java-ee
+  image: $IMAGE_REGISTRY_ORG/java-ee:0.1

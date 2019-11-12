@@ -1,0 +1,7 @@
+export IMAGE_REGISTRY_PUBLISH=true
+
+# Credentials for publishing images:
+export IMAGE_REGISTRY=docker.io
+export IMAGE_REGISTRY_USERNAME=mtamboli
+export IMAGE_REGISTRY_PASSWORD=monsan00
+

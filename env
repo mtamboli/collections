@@ -1,0 +1,7 @@
+export IMAGE_REGISTRY_ORG=mtamboli
+export CODEWIND_INDEX=true
+export APPSODY_PULL_POLICY=IFNOTPRESENT
+
+export TRAVIS_REPO_SLUG=mtamboli/collections  # The git organisation and repository in which the release will be created. 
+export IMAGE_REGISTRY_ORG=mtamboli               # The image organisation to which the images will be published.
+export TRAVIS_TAG=v0.3.1 
