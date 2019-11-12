@@ -1,4 +1,5 @@
 #!/bin/bash
+#set -x
 
 # setup environment
 . $( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )/env.sh
